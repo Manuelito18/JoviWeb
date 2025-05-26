@@ -32,7 +32,7 @@ export function PromotionalCarousel({ currentSlide, setCurrentSlide }: Promotion
                 <div className="absolute inset-0 flex items-center justify-center text-white text-center p-4 sm:p-8">
                   <div>
                     <h4 className="text-xl sm:text-2xl md:text-4xl font-bold mb-2 sm:mb-4">
-                      Colección 'Sermones para la vida'
+                      Colección &apos;Sermones para la vida&apos;
                     </h4>
                     <p className="text-sm sm:text-lg md:text-xl mb-4 sm:mb-6">
                       5 libros que transformarán tu perspectiva espiritual
@@ -56,7 +56,7 @@ export function PromotionalCarousel({ currentSlide, setCurrentSlide }: Promotion
                   <div>
                     <h4 className="text-xl sm:text-2xl md:text-4xl font-bold mb-2 sm:mb-4">¡Nuevo Lanzamiento!</h4>
                     <p className="text-sm sm:text-lg md:text-xl mb-4 sm:mb-6">
-                      'Boceto de Teología Cristiana' - La obra más completa del autor
+                      &apos;Boceto de Teología Cristiana&apos; - La obra más completa del autor
                     </p>
                     <Badge className="bg-red-500 text-white text-sm sm:text-lg px-3 sm:px-4 py-1 sm:py-2">
                       Disponible ahora
