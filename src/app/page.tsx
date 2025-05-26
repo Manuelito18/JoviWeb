@@ -34,9 +34,8 @@ export default function AuthorWebsite() {
         addToCart={addToCart}
         removeFromCart={removeFromCart}
         getCartTotal={getCartTotal}
-        getCartItemCount={getCartItemCount} showCart={false} setShowCart={function (show: boolean): void {
-          throw new Error("Function not implemented.")
-        } }      />
+        getCartItemCount={getCartItemCount} showCart={false} setShowCart={() => {}}
+      />
 
       <HeroSection />
 
