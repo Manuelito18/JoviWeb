@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+#backups files
+src/app/pages/AuthorWebsite.tsx
+src/app/pages/Respaldo_author.tsx
+src/app/pages/temp.tsx
+
